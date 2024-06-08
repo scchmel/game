@@ -1,0 +1,10 @@
+C:\Users\Иван\source\repos\FastFurious\FastFurious\bin\Debug\FastFurious.exe.config
+C:\Users\Иван\source\repos\FastFurious\FastFurious\bin\Debug\FastFurious.exe
+C:\Users\Иван\source\repos\FastFurious\FastFurious\bin\Debug\FastFurious.pdb
+C:\Users\Иван\source\repos\FastFurious\FastFurious\obj\Debug\FastFurious.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\FastFurious\FastFurious\obj\Debug\FastFurious.Form1.resources
+C:\Users\Иван\source\repos\FastFurious\FastFurious\obj\Debug\FastFurious.Properties.Resources.resources
+C:\Users\Иван\source\repos\FastFurious\FastFurious\obj\Debug\FastFurious.csproj.GenerateResource.cache
+C:\Users\Иван\source\repos\FastFurious\FastFurious\obj\Debug\FastFurious.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\FastFurious\FastFurious\obj\Debug\FastFurious.exe
+C:\Users\Иван\source\repos\FastFurious\FastFurious\obj\Debug\FastFurious.pdb
